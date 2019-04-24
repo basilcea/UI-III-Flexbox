@@ -92,6 +92,28 @@ h3{
 .logo{
 	padding-left:5%;
 }
+.flexHeader{
+	margin:1% 0%;
+	justify-content: center;
+
+}
+.headerImg{
+	width:30vw;
+}
+.headerDiv1{
+	padding:5% 0%;
+	width:45%
+}
+.headerDiv2{
+	padding:5% 0%;
+}
+#shift{
+	padding-left: 7vw;
+}
+#shift2{
+	padding-left:2vw;
+}
+
 section {
 	border-top:1px solid black;
 	border-bottom: 1px solid black;
