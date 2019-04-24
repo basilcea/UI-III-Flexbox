@@ -113,53 +113,58 @@ h3{
 #shift2{
 	padding-left:2vw;
 }
-
-section {
-	border-top:1px solid black;
+ection {
+	display:flex;
+	margin:2%;
+	flex-direction:column;
+	border-top: 1px solid black;
 	border-bottom: 1px solid black;
-}
 
-	
-#startButton{
-	width: 180px;
-	margin: 0 20px;
+}	
+.grey{
+	background-color:gainsboro;
+	border: 1px solid black;
+}
+.subsection{
+	display:flex;
+	justify-content:space-evenly;
+}
+.subdiv{
+	display:flex;
+	justify-content:space-between;
+	margin:2%;
+}
+.subsection1{
+	display:flex;
+	justify-content:space-around;
+}
+.sectionDivs{
+	margin-top:2%;
+	padding:0 1%;
+	padding-bottom:5%;
+	width:48%;
+}
+#subsection3{
+	display:flex;
+	justify-content:space-around;
+}
+.startButton{
+	width: 15vw;
+	margin: 1vw 2vw;
 	text-align:center;
 	padding: 10px;
-	background-color: inherit;
+	background-color: white;
+	border-radius:5px;
 	outline:none;
 	border: 1px solid black;
 }
-#alignDown{
-	padding-top: 20%;
-}
-.center{
-	text-align:center;
-}
-.sectionDivs{
-	display:inline-block;
-	margin-top:25px;
-	padding:0 5px;
-	width:49%;
-}
-.sectionDivs2{
-	display:inline-block;
-	padding:0 3px;
-	width:33%;
-	margin-bottom:30px;
 
+.sectionDivs2{
+	padding:0 1.5%;
+	width:33%;
+	margin:3% 0%;
 }
 p{
 	padding: 10px 0px;
-}
-
-#pictureDiv{
-	margin: 25px 0px;
-}
-#footerDiv{
-	padding:20px 0;
-	width:30%;
-}
-.block{
-	display:block;
 }
 /* Your code starts here! */
