@@ -28,6 +28,7 @@ Once you have finished the home page using flex box module, go build the service
   * Wrap the great idea logo in an anchor tag and point the `href` to `index.html`
 * [x] Add Name to ReadMe:
   * Basil - Ogbonna
+  
   **Remember, you should continue using box model properties this whole time.  Flexbox is only used for bigger layout pieces.  You will still need content width, padding, border, and margins to succeed.**
 
 ## Stretch Goals
