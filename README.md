@@ -17,15 +17,17 @@ Once you have finished the home page using flex box module, go build the service
 
 ## Objectives
 
-* [ ] Home Page Refactor:
+* [x] Home Page Refactor:
   * Note that the provided HTML is blank.  This is because I want you to use your code from yesterday if possible.  If you didn't finish, that's fine, just use the solution from yesterday
   * Refactor the home page layout with flexbox where `inline-block` was used before.
   * In your navigation elements, point the services `<a href=""></a>` to `services.html`
 
-* [ ] Services Page Build:
+* [x] Services Page Build:
   * Update the title in your newly copied services page to say `Great Idea! - Services`
   * Using the provided [design file](design-files/services-desktop-design.png), create the services page layout using flexbox and box model.
   * Wrap the great idea logo in an anchor tag and point the `href` to `index.html`
+* [x] Add Name to ReadMe:
+  * Basil - Ogbonna
   
   **Remember, you should continue using box model properties this whole time.  Flexbox is only used for bigger layout pieces.  You will still need content width, padding, border, and margins to succeed.**
 
@@ -33,3 +35,5 @@ Once you have finished the home page using flex box module, go build the service
 
 * [ ] Create another page based on one of the navigation items in addition to services.  Try to create a layout that follows the patterns of the first two designs but with your own creative twist.  Use lorem ipsum text for all your content.
 * [ ] Introduce media queries into your services page to create a mobile view that stacks all the boxes on top of each other on phone but looks like the layout file on desktop.
+
+### This file is edited by me, Basil Ogbonna as part of the requirement for lambda training school
